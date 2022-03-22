@@ -6,4 +6,4 @@ print("Hi")
 
 print("Hello")
 
-print("bye")
+print("GOOD!")
