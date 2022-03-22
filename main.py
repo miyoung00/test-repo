@@ -5,4 +5,4 @@
 
 print("Hello")
 
-print("BYE")
+print("good job")
